@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices>breadcrumb</choices>
+        <description>Workspace level navigation mode</description>
+        <name>ws_navigation_mode</name>
+        <page display_value="Bookings">2c7914e6db17330021848a184896198b</page>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-19 00:27:21</sys_created_on>
+        <sys_id>a879dc6edb97330021848a184896194b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ws_navigation_mode</sys_name>
+        <sys_package display_value="Bookings" source="x_263143_bookings">412858e2db57330021848a184896192d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Bookings">412858e2db57330021848a184896192d</sys_scope>
+        <sys_update_name>sys_ux_page_property_a879dc6edb97330021848a184896194b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-19 00:27:21</sys_updated_on>
+        <type>choicelist</type>
+        <unique_name>x_263143_bookings.ws_navigation_mode</unique_name>
+        <value>breadcrumb</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=a879dc6edb97330021848a184896194b"/>
+</record_update>

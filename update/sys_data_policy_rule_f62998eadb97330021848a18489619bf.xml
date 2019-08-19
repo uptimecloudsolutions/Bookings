@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_data_policy_rule">
+    <sys_data_policy_rule action="INSERT_OR_UPDATE">
+        <disabled>ignore</disabled>
+        <field>name</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_data_policy_rule</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-19 00:26:08</sys_created_on>
+        <sys_data_policy display_value="Sets the Name field to mandatory">722998eadb97330021848a1848961997</sys_data_policy>
+        <sys_id>f62998eadb97330021848a18489619bf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>name</sys_name>
+        <sys_package display_value="Bookings" source="x_263143_bookings">412858e2db57330021848a184896192d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Bookings">412858e2db57330021848a184896192d</sys_scope>
+        <sys_update_name>sys_data_policy_rule_f62998eadb97330021848a18489619bf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-19 00:26:08</sys_updated_on>
+        <table>x_263143_bookings_bookings</table>
+    </sys_data_policy_rule>
+</record_update>

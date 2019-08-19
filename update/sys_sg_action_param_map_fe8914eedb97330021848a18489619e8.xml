@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="New Button (Bookings)">728914eedb97330021848a18489619b1</button>
+        <item_parameter display_value="Bookings number">be8914eedb97330021848a18489619ae</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-19 00:27:46</sys_created_on>
+        <sys_id>fe8914eedb97330021848a18489619e8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>be8914eedb97330021848a18489619ae</sys_name>
+        <sys_package display_value="Bookings" source="x_263143_bookings">412858e2db57330021848a184896192d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Bookings">412858e2db57330021848a184896192d</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_fe8914eedb97330021848a18489619e8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-19 00:27:46</sys_updated_on>
+        <ui_parameter display_value="Number">328914eedb97330021848a18489619e6</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

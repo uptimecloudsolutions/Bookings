@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_aw_renderer">
+    <sys_aw_renderer action="INSERT_OR_UPDATE">
+        <custom_renderer display_value="sn-component-catalog-item">4e118ce10f132300bb57f4a1ff767ee0</custom_renderer>
+        <custom_renderer_tag>sn-component-catalog-item</custom_renderer_tag>
+        <module_flag>false</module_flag>
+        <renderer_type>record</renderer_type>
+        <sys_class_name>sys_aw_renderer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-19 00:27:24</sys_created_on>
+        <sys_id>597910aedb97330021848a18489619e8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Bookings" source="x_263143_bookings">412858e2db57330021848a184896192d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Bookings">412858e2db57330021848a184896192d</sys_scope>
+        <sys_update_name>sys_aw_renderer_597910aedb97330021848a18489619e8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-19 00:27:24</sys_updated_on>
+        <table>sc_cat_item_producer</table>
+        <workspace_config display_value="Bookings">a47914e6db17330021848a184896198a</workspace_config>
+        <workspace_module/>
+    </sys_aw_renderer>
+</record_update>
